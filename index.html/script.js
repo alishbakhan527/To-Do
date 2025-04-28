@@ -36,3 +36,4 @@ function showTask() {
 }
 
 showTask();
+window.addTask = addTask;
